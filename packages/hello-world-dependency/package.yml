@@ -1,0 +1,6 @@
+name: "hello-world-dependency"
+version: 1.0.0
+description: "Hello, World!"
+author: "ProdigyPXP"
+exports:
+  - "dep.spire": "HelloDep"

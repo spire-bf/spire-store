@@ -1,0 +1,8 @@
+name: "hello-world"
+version: 0.0.1
+description: "Hello, World!"
+author: "ProdigyPXP"
+exports:
+  - "index.spire": "HelloWorld"
+dependencies:
+  - hello-world-dependency: "^1.0.0"
